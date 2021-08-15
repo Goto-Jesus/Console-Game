@@ -1,0 +1,7 @@
+D:\C#Scripts\NewStudy\Scripty\bin\Debug\Scripty.exe.config
+D:\C#Scripts\NewStudy\Scripty\bin\Debug\Scripty.exe
+D:\C#Scripts\NewStudy\Scripty\bin\Debug\Scripty.pdb
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Scripty.csprojAssemblyReference.cache
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Scripty.csproj.CoreCompileInputs.cache
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Scripty.exe
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Scripty.pdb

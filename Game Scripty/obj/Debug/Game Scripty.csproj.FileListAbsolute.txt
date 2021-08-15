@@ -1,0 +1,14 @@
+D:\C#Scripts\NewStudy\Scripty\bin\Debug\Scripty.exe.config
+D:\C#Scripts\NewStudy\Scripty\bin\Debug\Scripty.exe
+D:\C#Scripts\NewStudy\Scripty\bin\Debug\Scripty.pdb
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Game Scripty.csprojAssemblyReference.cache
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Game Scripty.csproj.CoreCompileInputs.cache
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Scripty.exe
+D:\C#Scripts\NewStudy\Scripty\obj\Debug\Scripty.pdb
+D:\C#Scripts2\AllStudy\Scripty\bin\Debug\Scripty.exe.config
+D:\C#Scripts2\AllStudy\Scripty\bin\Debug\Scripty.exe
+D:\C#Scripts2\AllStudy\Scripty\bin\Debug\Scripty.pdb
+D:\C#Scripts2\AllStudy\Scripty\obj\Debug\Game Scripty.csproj.AssemblyReference.cache
+D:\C#Scripts2\AllStudy\Scripty\obj\Debug\Game Scripty.csproj.CoreCompileInputs.cache
+D:\C#Scripts2\AllStudy\Scripty\obj\Debug\Scripty.exe
+D:\C#Scripts2\AllStudy\Scripty\obj\Debug\Scripty.pdb
